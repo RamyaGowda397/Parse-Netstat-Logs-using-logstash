@@ -2,7 +2,6 @@
 
 Using Logstash to parse netstat events and push them to elasticsearch
 
-Run logstah 
 1.Go inside the directory of logstash
 
 2.Run following command 
